@@ -1,4 +1,3 @@
-import express from 'express';
 import CalculateInvoice from './CalculateInvoice';
 import TransactionDAODatabase from './TransactionDAODatabase';
 import CurrencyGatewayHttp from './CurrencyGatewayHttp';
